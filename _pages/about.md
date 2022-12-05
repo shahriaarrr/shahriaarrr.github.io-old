@@ -19,6 +19,23 @@ I’m Shahriar. I love programming and learning new things with high motivation.
 # 📖 Educations
 - **B.Sc. in Computer Engineering**, [University of Birjand](https://birjand.ac.ir), Birjand, Iran. *2020 - Present* 
 
+
+# 💪 Skills
+- **Programming Languages**:
+  
+  - 🐍 Python
+  - 🍵 Java
+  - ©️ C
+- **Frameworks and libraries**:
+
+  - 🌐 Django
+  - 🤖 discord.py
+  - 🔢 Numpy
+- **tools**:
+
+  - 💻 git
+  - 🐦 GNU/Linux
+
 # 💻 Internships
 - **Programming instructor**,  [Quera](https://quera.org), Mashhad, Iran (remote). *Aug 2021 – Oct 2021*
 
