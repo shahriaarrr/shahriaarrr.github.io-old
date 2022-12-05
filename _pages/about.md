@@ -39,6 +39,17 @@ I’m Shahriar. I love programming and learning new things with high motivation.
 # 💻 Internships
 - **Programming instructor**,  [Quera](https://quera.org), Mashhad, Iran (remote). *Aug 2021 – Oct 2021*
 
+
+# 😺 Open-Source Projects
+- 🌥️ [**Weather App**](https://github.com/shahriaarrr/Weather_App) -  Get weather information of different cities
+
+- 📧 [**Gmail sender**](https://github.com/shahriaarrr/gmail-sender) -  send your email((for who activate 2fac in gmail))
+
+- 📄 [**SHcode**](https://github.com/shahriaarrr/SHcode) -  simple text editor with python 
+
+- 🧮 [**Calculator**](https://github.com/shahriaarrr/Calculator-java) -  a little calculator with java
+
+
 # 📚 Certificates
 - **[Python Django - Complete Course](https://www.udemy.com/certificate/UC-9e013501-dfe1-4913-9634-4a796eb4fa21/)**
 
