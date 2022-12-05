@@ -17,7 +17,7 @@ I’m Shahriar. I love programming and learning new things with high motivation.
 
 
 # 📖 Educations
-- **B.Sc. in Computer Engineering**, [University of Birjand](https://birjand.ac.ir), Mashhad, Iran. *2020 - Present* 
+- **B.Sc. in Computer Engineering**, [University of Birjand](https://birjand.ac.ir), Birjand, Iran. *2020 - Present* 
 
 # 💻 Internships
 - **Programming instructor**,  [Quera](https://quera.org), Mashhad, Iran (remote). *Aug 2021 – Oct 2021*
