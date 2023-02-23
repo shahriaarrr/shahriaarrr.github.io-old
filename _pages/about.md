@@ -56,3 +56,5 @@ I’m Shahriar. I love programming and learning new things with high motivation.
 - **[Python Programming for Beginners](https://maktabkhooneh.org/certificates/MK-IG03DN/)**
 
 - **[Introduction to Programming with Java](https://maktabkhooneh.org/certificates/MK-W36L7A/)**
+
+- **[Task-Oriented Course In Version Control With Git](https://quera.org/certificate/dzAS2DqJ/)**
