@@ -41,6 +41,8 @@ I’m Shahriar. I love programming and learning new things with high motivation.
 
 
 # 😺 Open-Source Projects
+- 📝[**Django blog**](https://github.com/shahriaarrr/Django-blog) - Blog application with Django
+
 - 🌥️ [**Weather App**](https://github.com/shahriaarrr/Weather_App) -  Get weather information of different cities
 
 - 📧 [**Gmail sender**](https://github.com/shahriaarrr/gmail-sender) -  send your email((for who activate 2fac in gmail))
